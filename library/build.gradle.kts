@@ -8,12 +8,12 @@ plugins {
 }
 
 group = "io.github.johnylie"
-version = "1.0.1"
+version = "1.0.2"
 
 kotlin {
     jvm()
     androidLibrary {
-        namespace = "io.github.johnylie.kotlin-greeting"
+        namespace = "io.github.johnylie.kotlin_greeting"
         compileSdk = libs.versions.android.compileSdk.get().toInt()
         minSdk = libs.versions.android.minSdk.get().toInt()
 
