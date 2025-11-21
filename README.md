@@ -89,6 +89,6 @@ repositories {
 }
 
 dependencies {
-    implementation("io.github.johnylie:kotlin-greeting:1.0.0")
+    implementation("io.github.johnylie:kotlin-greeting:1.0.3")
 }
 ```
