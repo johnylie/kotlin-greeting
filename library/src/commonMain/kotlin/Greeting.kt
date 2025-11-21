@@ -1,4 +1,4 @@
-package io.github.kotlin.greeting
+package io.github.johnylie.kotlin.greeting
 
 enum class Language {
     EN, ID

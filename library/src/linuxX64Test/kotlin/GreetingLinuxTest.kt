@@ -1,4 +1,4 @@
-package io.github.kotlin.greeting
+package io.github.johnylie.kotlin.greeting
 
 import kotlin.test.Test
 import kotlin.test.assertTrue

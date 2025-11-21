@@ -1,4 +1,4 @@
-package io.github.kotlin.greeting
+package io.github.johnylie.kotlin.greeting
 
 import kotlinx.cinterop.*
 import platform.posix.*
